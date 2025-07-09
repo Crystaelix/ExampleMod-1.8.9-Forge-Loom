@@ -1,12 +1,8 @@
 package com.example.examplemod;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.spongepowered.asm.mixin.Mixins;
 
 import net.minecraftforge.fml.common.Loader;
-import zone.rong.mixinbooter.ILateMixinLoader;
 import zone.rong.mixinbooter.MixinLoader;
 
 @MixinLoader
